@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "137096979372",
+    "project_id": "reverse-dating",
+    "storage_bucket": "reverse-dating.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137096979372:android:a3eb164d5dd7d8771f9009",
+        "android_client_info": {
+          "package_name": "com.reversedating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137096979372-7f2fjlqr2hkov1hfdfci64pub248gmkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reversedating",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "137096979372-nh4snof95fbt5hd43m4v4q6ld1997m9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reversedating",
+            "certificate_hash": "657d426e1bb83d64bc2477c899fc63c7cb339d16"
+          }
+        },
+        {
+          "client_id": "137096979372-mf8jdl7ge5b3739b4k48u1oifv6n5sr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrzp5MunteICy-3aemrqs-0_oYEImssY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137096979372-mf8jdl7ge5b3739b4k48u1oifv6n5sr8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "137096979372-mf2nbv2isbu3k5gl63ikgk27kou1q7if.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reversedating"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
