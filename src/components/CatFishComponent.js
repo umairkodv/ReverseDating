@@ -21,6 +21,7 @@ export default function CatFishComponent({data}) {
   );
 }
 
+
 const styles = StyleSheet.create({
   container: {
     borderWidth: 1,
