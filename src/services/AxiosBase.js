@@ -12,8 +12,6 @@ const AxiosBase = axios.create({
   },
 });
 
-
-
 AxiosBase.interceptors.request.use(
   async config => {
     config.headers['Authorization'] = `Bearer ${await getToken()}`;
